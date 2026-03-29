@@ -20,7 +20,7 @@
 
 ---
 
-## 🔥 Dự Án Nổi Bật
+##  Dự Án Nổi Bật
 
 ### 🛒 FlyFood — Website Đặt Đồ Ăn
 
@@ -28,14 +28,14 @@
 
 | Chức năng | Mô tả |
 |-----------|-------|
-| 🔐 Đăng ký / Đăng nhập | Xác thực người dùng với session |
-| 🏠 Trang chủ | Hiển thị danh sách sản phẩm nổi bật |
-| 📦 Danh sách sản phẩm | Lọc, tìm kiếm theo danh mục |
-| 🔍 Chi tiết sản phẩm | Thông tin đầy đủ + thêm vào giỏ hàng |
-| 🛒 Giỏ hàng | Quản lý số lượng, tính tiền |
-| 💳 Thanh toán | Form checkout đầy đủ |
-| 🧾 Hóa đơn | Xem lịch sử đơn hàng |
-| 🛠 Admin | Quản lý sản phẩm, đơn hàng |
+|  Đăng ký / Đăng nhập | Xác thực người dùng với session |
+|  Trang chủ | Hiển thị danh sách sản phẩm nổi bật |
+|  Danh sách sản phẩm | Lọc, tìm kiếm theo danh mục |
+|  Chi tiết sản phẩm | Thông tin đầy đủ + thêm vào giỏ hàng |
+|  Giỏ hàng | Quản lý số lượng, tính tiền |
+|  Thanh toán | Form checkout đầy đủ |
+|  Hóa đơn | Xem lịch sử đơn hàng |
+|  Admin | Quản lý sản phẩm, đơn hàng |
 
 [![Source Code](https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/HoNhuY/FlyFood)
 [![Demo](https://img.shields.io/badge/▶_Xem_Demo-Video-FF0000?style=for-the-badge&logo=youtube)](https://github.com/HoNhuY/FlyFood#demo)
@@ -47,17 +47,18 @@
 > Hệ thống AI tự động tạo Web App hoàn chỉnh từ mô tả kỹ thuật — **Vibe Coding thế hệ mới**
 
 **Tính năng chính:**
-- ✅ Nhận mô tả kỹ thuật bằng ngôn ngữ tự nhiên
-- ✅ AI phân tích & sinh code tự động
-- ✅ Xuất ra Web App hoạt động được ngay
-- ✅ Hỗ trợ nhiều kiểu ứng dụng khác nhau
+-  Nhận mô tả kỹ thuật bằng ngôn ngữ tự nhiên
+-  AI phân tích & sinh code tự động
+-  Xuất ra Web App hoạt động được ngay
+-  Chatbot hỗ trợ người dùng (sử dụng văn bản và giọng nói)
+-  Hỗ trợ nhiều web bán hàng khác nhau
 
 [![Source Code](https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/HoNhuY/AI-VibCode)
 [![Demo](https://img.shields.io/badge/▶_Xem_Demo-Video-FF0000?style=for-the-badge&logo=youtube)](https://github.com/HoNhuY/AI-VibCode#demo)
 
 ---
 
-## 🛠 Kỹ Năng
+##  Kỹ Năng
 
 ```
 Languages    │  C#  •  JavaScript  •  HTML  •  CSS  •  SQL
@@ -69,7 +70,7 @@ AI/ML        │  Prompt Engineering  •  AI API Integration  •  Vibe Coding
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -80,13 +81,13 @@ AI/ML        │  Prompt Engineering  •  AI API Integration  •  Vibe Coding
 
 ---
 
-## 📫 Liên Hệ
+##  Liên Hệ
 
 <div align="center">
 
-📧 **Email:** yourmail@gmail.com  
-🐙 **GitHub:** [github.com/HoNhuY](https://github.com/HoNhuY)
+ **Email:** honhuy20032004@gmail.com  
+ **GitHub:** [github.com/HoNhuY](https://github.com/HoNhuY)
 
-*"Code không chỉ là công việc — đó là cách mình tạo ra thế giới."* 🚀
+*"Code không chỉ là công việc — đó là cách mình tạo ra thế giới."* 
 
 </div>
