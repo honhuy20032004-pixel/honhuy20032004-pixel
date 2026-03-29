@@ -54,7 +54,7 @@
 * 🤖 Chatbot hỗ trợ (text + voice)
 * 🛍 Hỗ trợ nhiều loại web bán hàng
 
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/honhuy20032004-pixel/AI-VibCode)
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/honhuy20032004-pixel/VIBECODE)
 [![Demo](https://img.shields.io/badge/▶_Xem_Demo-Google_Drive-34A853?style=for-the-badge\&logo=google-drive)](LINK_VIDEO_AI)
 
 ---
