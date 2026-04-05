@@ -67,6 +67,6 @@ AI/ML        │  Prompt Engineering  •  AI API Integration
 📧 **Email:** [honhuy20032004@gmail.com](mailto:honhuy20032004@gmail.com)
 🌐 **GitHub:** https://github.com/honhuy20032004-pixel
 
-*"Code is not just work — it's how I create the world."* 🚀
+*"Code is not just work — it's how I create the world."* 
 
 </div>
