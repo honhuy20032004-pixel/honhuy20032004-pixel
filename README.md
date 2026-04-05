@@ -13,7 +13,7 @@
 
 🎓 Sinh viên CNTT  |  💻 ASP.NET Core Developer  |  🤖 AI & Web Builder
 
-[![GitHub](https://img.shields.io/badge/GitHub-HoNhuY-181717?style=for-the-badge\&logo=github)](https://github.com/honhuy20032004-pixel)
+[![GitHub](https://img.shields.io/badge/GitHub-honhuy20032004-pixe?style=for-the-badge\&logo=github)](https://github.com/honhuy20032004-pixel)
 [![Email](https://img.shields.io/badge/Email-honhuy20032004@gmail.com-EA4335?style=for-the-badge\&logo=gmail)](mailto:honhuy20032004@gmail.com)
 
 </div>
@@ -28,14 +28,14 @@
 
 | Chức năng              | Mô tả                           |
 | ---------------------- | ------------------------------- |
-| 🔐 Đăng ký / Đăng nhập | Xác thực người dùng với session |
-| 🏠 Trang chủ           | Hiển thị sản phẩm nổi bật       |
-| 📦 Danh sách sản phẩm  | Lọc, tìm kiếm theo danh mục     |
-| 🔎 Chi tiết sản phẩm   | Xem chi tiết + thêm vào giỏ     |
-| 🛒 Giỏ hàng            | Quản lý số lượng, tính tiền     |
-| 💳 Thanh toán          | Form checkout                   |
-| 🧾 Hóa đơn             | Xem lịch sử đơn                 |
-| ⚙️ Admin               | Quản lý sản phẩm & đơn hàng     |
+|  Đăng ký / Đăng nhập | Xác thực người dùng với session |
+|  Trang chủ           | Hiển thị sản phẩm nổi bật       |
+|  Danh sách sản phẩm  | Lọc, tìm kiếm theo danh mục     |
+|  Chi tiết sản phẩm   | Xem chi tiết + thêm vào giỏ     |
+|  Giỏ hàng            | Quản lý số lượng, tính tiền     |
+|  Thanh toán          | Form checkout                   |
+|  Hóa đơn             | Xem lịch sử đơn                 |
+|  Admin               | Quản lý sản phẩm & đơn hàng     |
 
 [![Source Code](https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/honhuy20032004-pixel/FlyFood)
 [![Demo](https://img.shields.io/badge/▶_Xem_Demo-Google_Drive-34A853?style=for-the-badge\&logo=google-drive)](LINK_VIDEO_FLYFOOD)
