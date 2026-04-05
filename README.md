@@ -1,13 +1,6 @@
 <div align="center">
 
-​```
-██╗  ██╗ ██████╗     ███╗   ██╗██╗  ██╗██╗   ██╗    ██╗   ██╗
-██║  ██║██╔═══██╗    ████╗  ██║██║  ██║██║   ██║    ╚██╗ ██╔╝
-███████║██║   ██║    ██╔██╗ ██║███████║██║   ██║     ╚████╔╝ 
-██╔══██║██║   ██║    ██║╚██╗██║██╔══██║██║   ██║      ╚██╔╝  
-██║  ██║╚██████╔╝    ██║ ╚████║██║  ██║╚██████╔╝       ██║   
-╚═╝  ╚═╝ ╚═════╝     ╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝        ╚═╝   
-​```
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Ho+Nhu+Y+👋;IT+Student;ASP.NET+Core+Developer;AI+%26+Web+Builder" alt="Typing SVG" />
 
 # 👋 Hi, I'm **Ho Nhu Y**
 🎓 IT Student  |  💻 ASP.NET Core Developer  |  🤖 AI & Web Builder
@@ -25,7 +18,7 @@
 > An e-commerce food web application built with ASP.NET Core MVC
 
 | Feature | Description |
-| ---------------------- | ------------------------------- |
+|---|---|
 | Register / Login | User authentication with session |
 | Homepage | Display featured products |
 | Product List | Filter and search by category |
@@ -57,13 +50,13 @@
 
 ## Skills
 
-​```
-Languages    │  C#  •  JavaScript  •  HTML  •  CSS  •  SQL
-Frameworks   │  ASP.NET Core MVC  •  Entity Framework Core
-Database     │  SQL Server  •  LINQ
-Tools        │  Visual Studio  •  Git  •  GitHub
-AI/ML        │  Prompt Engineering  •  AI API Integration
-​```
+| Category | Technologies |
+|---|---|
+| 💬 Languages | C# · JavaScript · HTML · CSS · SQL |
+| 🧱 Frameworks | ASP.NET Core MVC · Entity Framework Core |
+| 🗄️ Database | SQL Server · LINQ |
+| 🛠️ Tools | Visual Studio · Git · GitHub |
+| 🤖 AI/ML | Prompt Engineering · AI API Integration |
 
 ---
 
