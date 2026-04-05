@@ -25,7 +25,7 @@
 > An e-commerce food web application built with ASP.NET Core MVC
 
 | Feature | Description |
-|---|---|
+| ---------------------- | ------------------------------- |
 | Register / Login | User authentication with session |
 | Homepage | Display featured products |
 | Product List | Filter and search by category |
